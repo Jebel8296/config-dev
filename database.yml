@@ -1,2 +1,4 @@
 mysql:
   uri: http
+  username: xuxg
+  password: xuxg
